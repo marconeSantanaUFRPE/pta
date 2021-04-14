@@ -15,7 +15,7 @@ serverPort = 11550
 serverSocket = socket(AF_INET, SOCK_STREAM)
 serverSocket.bind(('', serverPort))
 serverSocket.listen(1)
-print("Servidor refatorado Online !")
+print("Servidor Online !")
 isConnection = False
 while True:
     try:
