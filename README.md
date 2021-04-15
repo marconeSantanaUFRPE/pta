@@ -1,6 +1,6 @@
 # Protocolo de Transferência de Arquivos - PTA
 
-Servidor para protocolo de transferência de arquivo feito em python para a disciplina de SISTEMAS DE INFORMAÇÃO NA INTERNET do curso de sistemas de informação da UFRPE
+Servidor para protocolo de transferência de arquivo feito em python para a disciplina de sistemas de infomação na internet do curso de sistemas de informação da UFRPE
 
 
 Requisito:
